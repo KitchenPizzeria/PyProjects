@@ -1,1 +1,1 @@
-ECHO is on.
+print("This is the server.py file")
